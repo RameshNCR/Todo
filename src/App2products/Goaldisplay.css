@@ -1,0 +1,9 @@
+div.Goaldisplay,p.Goaldisplay{
+    width: 30%;
+    display: block;
+    margin: 10px auto;
+    background-color: rgb(230, 71, 71);
+    border-radius: 5px;
+    text-align: center;
+    padding: 5px;
+}

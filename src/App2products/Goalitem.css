@@ -1,0 +1,22 @@
+div.GoalContainer{
+    width:90%;
+    justify-content: space-between;
+    margin: 10px auto;
+    background-color: rgb(255, 223, 80);
+    display: flex;
+    padding: 5px;
+    border-radius: 5px;
+}
+ p.text{
+    display: block;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 3px;
+}
+button.goalbtn1{
+    display:block;
+    color: white;
+    padding: 3px 3px;
+    background-color: black;
+    border: 1px solid orangered;
+    border-radius: 3px;
+}
